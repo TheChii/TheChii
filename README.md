@@ -6,10 +6,7 @@
 # <div align="center">Chiriac Theodor</div>  
   
 
-- 🔭 I’m currently working on a driving assistant  
-  
-
-- ⚡ Pretty cool fact: I'm bad at coding  
+- Java sucks tbh
   
 
 <br/>  
